@@ -1,2 +1,2 @@
-"Am"+"si"+"U"+"ti"+"ls"
-"am"+"siI"+"nit"+"Fa"+"iled"
+$t = "Am"+"si"+"U"+"ti"+"ls"
+$r = "am"+"siI"+"nit"+"Fa"+"iled"
