@@ -1,2 +1,2 @@
-$t = "Am"+"si"+"U"+"ti"+"ls"
+$t = "AmsiUtils"
 $r = "am"+"siI"+"nit"+"Fa"+"iled"
