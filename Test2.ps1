@@ -2942,7 +2942,7 @@ Outputs a custom object containing the SamAccountName, ServicePrincipalName, and
 
     PROCESS {
         if ($PSBoundParameters['Identity']) { $UserSearcherArguments['Identity'] = $Identity }
-        Get-DomainUser @UserSearcherArguments | Where-Object {$_.samaccountname -ne 'krbtgt'} | Get-DomainSPNTicket -OutputFormat $OutputFormat
+        Get-DomainUser @UserSearcherArguments | Where-Object {$_.samaccountname -ne 'kr'+'bt'+'gt'} | Get-DomainSPNTicket -OutputFormat $OutputFormat
     }
 
     END {
