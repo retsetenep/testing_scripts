@@ -1,2 +1,2 @@
-Write-Output "AmsiUtils"
-Write-Output "amsiInitFailed"
+"AmsiUtils"
+"amsiInitFailed"
